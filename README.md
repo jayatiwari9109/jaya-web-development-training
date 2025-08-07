@@ -1,1 +1,1 @@
-# jaya-web-devlopment-training
+# jaya-web-development-training
